@@ -1,0 +1,16 @@
+{
+  "project_name": "FlowMatchingPSO",
+  "project_type": "optimization",
+  "completion_time": "2025-08-03T20:59:33.853284",
+  "total_tasks": 4,
+  "completed_tasks": 3,
+  "failed_tasks": 1,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/FlowMatchingPSO"
+}
